@@ -1,0 +1,19 @@
+{
+  "best_model": "Logistic Regression",
+  "best_acc": 0.8034066713981547,
+  "best_auc": 0.8459066366994756,
+  "metrics": {
+    "Logistic Regression": {
+      "accuracy": 0.8034066713981547,
+      "auc": 0.8459066366994756
+    },
+    "Random Forest": {
+      "accuracy": 0.7892122072391767,
+      "auc": 0.8203466894003979
+    },
+    "Gradient Boosting": {
+      "accuracy": 0.8026969481902059,
+      "auc": 0.8435970962825182
+    }
+  }
+}
